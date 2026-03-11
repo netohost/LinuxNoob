@@ -1,0 +1,15 @@
+Apanhando pro teclado também, né? 
+
+Não se preocupe, acredito que todos nós passamos por isso. Os códigos abaixo vão te auxiliar em trocar a línguagem para o PT-BR (ABNT2)!
+
+No Shell, siga os passos abaixo:
+
+1. Para exibir as configurações atuais do seu teclado:
+            
+                  setxkbmap -query
+
+2. Para alterar a línguagem do teclado:
+
+          setxkbmap -model abnt2 -layout br
+
+3. Prontinho! Sem mais dor de cabeça... (Por enquanto)
