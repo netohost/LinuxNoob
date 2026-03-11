@@ -1,0 +1,17 @@
+Esses comandos serão importantes para possibilitar que você transite entre seus arquivos pelo Shell! 
+
+pwd --> Retorna o local onde você está.
+
+ls --> Retorna os arquivos no local onde você está. 
+
+ls -l --> Lista os arquivos com detalhes (permissões, dono, tamanho e data).
+
+cd --> Navega entre diretórios (entrar ou voltar pastas)
+
+exemplo:   
+  
+cd Documents --> Você avança para a pasta Documents
+cd .. --> Retrocede para o diretório anterior
+
+tree --> Lista os diretórios em formato de árvore, facilitando a visualização da estrutura de pastas. (É mais legal e quem vê vai taxar você como Hacker, vai por mim)
+
