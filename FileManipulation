@@ -1,0 +1,28 @@
+
+            Comandos para manipular arquivos!
+
+---------------------------------------------------------------------
+
+mkdir --> Cria um novo diretório/pasta.
+
+touch --> Cria um novo arquivo vazio.
+
+grep --> Procura por palavras ou padrões dentro de arquivos.
+
+strings --> Exibe apenas as sequências de texto (strings) presentes em um arquivo.
+
+rm --> Remove (deleta) arquivos ou diretórios.
+
+cp --> Copia arquivos ou diretórios de um local para outro.
+
+mv --> Move ou renomeia arquivos e diretórios.
+
+cat --> Exibe o conteúdo de um arquivo.
+
+head --> Mostra as primeiras linhas de um arquivo.
+
+tail --> Mostra as últimas linhas de um arquivo.
+
+find --> Procura arquivos e diretórios dentro do sistema.
+
+file --> Identifica o tipo real de um arquivo.
